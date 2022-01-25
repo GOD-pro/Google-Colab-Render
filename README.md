@@ -16,3 +16,4 @@ Choose 'GPU' as hardware accelerator.
 
 ![image](https://user-images.githubusercontent.com/76625500/150933345-d66f1416-e4c0-4c44-bd01-3fe88df05a13.png)
 
+Click on save and follow the instructions in 
