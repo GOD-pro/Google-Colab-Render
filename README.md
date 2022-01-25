@@ -12,5 +12,7 @@ Then 'Notebook Settings'
 ![image](https://user-images.githubusercontent.com/76625500/150933307-42a7ad73-6841-43d2-bab0-de369937c658.png)
 
 Choose 'GPU' as hardware accelerator.
+
+
 ![image](https://user-images.githubusercontent.com/76625500/150933345-d66f1416-e4c0-4c44-bd01-3fe88df05a13.png)
 
